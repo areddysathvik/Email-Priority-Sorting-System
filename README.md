@@ -23,11 +23,11 @@ Project Details
         
 2. Navigate
          
-    cd Codes
+       cd Codes
     
 3. Run cmd
 
-    streamlit run main.py
+       streamlit run main.py
 
 4. Upload Text file which contains emails that is in required format.
 
