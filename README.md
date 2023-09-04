@@ -18,11 +18,18 @@ Project Details
   - Automation: Routine tasks, such as auto-responses or archiving, can be automated for enhanced efficiency.
 
 # Live Testing
-- clone repo     
+1. clone repo     
 
         
-cmd
+2. Navigate
          
     cd Codes
-    stream run main.py
+    
+3. Run cmd
+
+    streamlit run main.py
+
+4. Upload Text file which contains emails that is in required format.
+
+# Done Model will do the rest, it will display Emails accordingly.
     
