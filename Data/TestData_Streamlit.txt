@@ -1,0 +1,11 @@
+Email
+"Subject: Urgent Meeting Tomorrow\nHi team,\nJust a quick heads up that we have an urgent meeting scheduled for tomorrow morning at 10 AM. The management wants to discuss the progress of the ongoing project and make some crucial decisions. Please make sure you come prepared with all the necessary information.\nBest regards,\nAlex",
+Email  
+    "Subject: Congratulations on the Promotion\nHey [Friend's Name],\nI wanted to be the first to congratulate you on your well-deserved promotion! Your dedication and hard work have paid off, and I couldn't be happier for you. Let's celebrate your success soon.\nCheers,\nEmily",
+Email   
+    "Subject: Exciting Travel Opportunity\nHello [Friend's Name],\nHow would you like to embark on an exciting adventure? I've come across an amazing travel deal for a tropical destination. Imagine relaxing on the pristine beaches and exploring vibrant local culture. Let's plan a memorable getaway together.\nTake care,\nJames",
+Email   
+    "Subject: Important Project Update\nHi [Client's Name],\nI hope this email finds you well. I wanted to provide you with an important update regarding the project. Our team has successfully completed the initial phase, and we're eager to move forward with the next steps. Your input has been invaluable in shaping the project's direction.\nWarm regards,\nSarah",
+Email  
+    "Subject: Exclusive Offer: 50% Off!\nDear valued customer,\nDon't miss out on our exclusive limited-time offer! Get 50% off on selected items. Click the link below to start shopping.\n",
+ 
